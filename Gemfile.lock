@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/openSUSE/obs_deploy.git
-  revision: 08062d6b44cfe62f8511371f9ad6338fe864ef0e
+  revision: ac6f105ab161674d29f3c260737db1ba791d616f
   specs:
     obs_deploy (0.4.1)
       cheetah
